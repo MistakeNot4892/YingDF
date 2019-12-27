@@ -1,4 +1,4 @@
-creature_valsalia
+creature_valsalia_yinglet
 
 [OBJECT:CREATURE]
 
