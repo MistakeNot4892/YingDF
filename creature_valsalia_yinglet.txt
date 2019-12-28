@@ -168,6 +168,8 @@ creature_valsalia_yinglet
 		[ATTACK_PREPARE_AND_RECOVER:3:3]
 		[ATTACK_PRIORITY:SECOND]
 		[ATTACK_FLAG_CANLATCH]
+
+	[GENERAL_CHILD_NAME:younglet:younglets]
 	[BABY:1]
 	[CHILD:2]
 	[EQUIPS]
